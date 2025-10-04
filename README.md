@@ -42,6 +42,6 @@ This is a demo base on SplashScreen,  which includes:
 
 
 
-[1]:images/android-splash-video-5.gif
-[2]:images/android-splash-expo-6.gif
-[3]:images/android-splash-lottie-7.gif
+[1]:SplashScreenDemo/images/android-splash-video-5.gif
+[2]:SplashScreenDemo/images/android-splash-expo-6.gif
+[3]:SplashScreenDemo/images/android-splash-lottie-7.gif
