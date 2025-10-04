@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SplashScreenDemo</string>
+    <string name="default_name">SplashScreenDemo</string>
+    <string name="lottie_name">SplashLottieDemo</string>
+    <string name="video_name">SplashVideoDemo</string>
+    <string name="expo_name">SplashExpoPlayerDemo</string>
+</resources>

@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="240"
+    android:viewportHeight="240">
+    <!-- 矢量路径 -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M120,40 A80,80 0 1,1 120,200 A80,80 0 1,1 120,40" />
+</vector>
